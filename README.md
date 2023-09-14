@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17219
-Fork on GitHub
-4942
 
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm arzoo1904</h1>
 <h3 align="center">A passionate Data analyst and tech enthusiast</h3>
