@@ -1,14 +1,14 @@
 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Aarzoo Poriya</h1>
-<h3 align="center">A passionate DATA ANALYST & TECH ENTHUSIAST</h3>
+<h1 align="center">Hi 👋, I'm Arzoo Poriya</h1>
+<h3 align="center">A passionate java developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzoo1904&label=Profile%20views&color=0e75b6&style=flat" alt="arzoo1904" /> </p>
 
 <p align="left"> <a href="https://twitter.com/arzooporiya" target="blank"><img src="https://img.shields.io/twitter/follow/arzooporiya?logo=twitter&style=for-the-badge" alt="arzooporiya" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **java**
 
 - 📫 How to reach me **arzooporiya18@gmail.com**
 
